@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mi Calculadora</string>
+    <string name="lbl_n1">Primer numero</string>
+    <string name="lbl_n2">Segundo numero</string>
+    <string name="result">#</string>
+    <string name="et1">Ingrese aquí número uno</string>
+    <string name="et2">Ingrese aquí número dos</string>
+    <string name="btn">Get result</string>
+
+</resources>

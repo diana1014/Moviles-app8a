@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" >My Calc</string>
+    <string name="lbl_n1">First number</string>
+    <string name="et1">Press here number one</string>
+    <string name="lbl_n2">Second number</string>
+    <string name="et2">Press here number two</string>
+    <string name="result">#</string>
+    <string name="btn">Get result</string>
+
+</resources>
