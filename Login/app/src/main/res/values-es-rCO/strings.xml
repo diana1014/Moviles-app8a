@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LoginandRegister</string>
+    <string name="username">Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="btnsingup">Registrate</string>
+    <string name="btnsingin">Ingresar</string>
+    <string name="email">Peter@gmail.com</string>
+    <string name="passw">password</string>
+    <string name="todo">TODO</string>
+</resources>

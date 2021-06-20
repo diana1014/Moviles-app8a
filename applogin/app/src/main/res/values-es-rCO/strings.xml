@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">applogin</string>
+    <string name="txtuser">Usuario</string>
+    <string name="txtpass">Contraseña</string>
+    <string name="inputuser">ejemplo@gmail.com</string>
+    <string name="inputpass">contraseña</string>
+    <string name="btnin">INGRESAR</string>
+    <string name="btnup">REGISTRATE</string>
+    <string name="fac">face</string>
+    <string name="tw">tw</string>
+    <string name="gog">go</string>
+    <string name="in">ins</string>
+    <string name="txtfn">Nombre</string>
+    <string name="txtln">Apellido</string>
+    <string name="txtcp">Confirmar contraseña</string>
+    <string name="inputfn">Peter</string>
+    <string name="inputln">MacDonald</string>
+    <string name="inputun">peter@gmail.com</string>
+    <string name="inputpassreg">Contraseña</string>
+    <string name="inputpassredconf">pasword</string>
+    <string name="btnini">Registrate</string>
+    <string name="txtbirth">Nacimiento</string>
+    <string name="txtcountry">Pais</string>
+    <string name="txtphone">Celular</string>
+    <string name="txtgender">Genero</string>
+</resources>

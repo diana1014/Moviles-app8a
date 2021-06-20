@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "528271103984",
+    "project_id": "login-1810",
+    "storage_bucket": "login-1810.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528271103984:android:eb464a2e71162c9b5d2f35",
+        "android_client_info": {
+          "package_name": "com.diana.applogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528271103984-18sng99n5hdpqc6kctvneuiq2uenkb6e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNz8v-E5h70nExF8bAmhkF6N6m3ZVwlWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528271103984-18sng99n5hdpqc6kctvneuiq2uenkb6e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

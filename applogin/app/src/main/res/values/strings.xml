@@ -1,0 +1,31 @@
+<resources>
+
+    <string name="app_name">applogin</string>
+    //inicio//
+    <string name="txtuser">Username</string>
+    <string name="txtpass">Password</string>
+    <string name="inputpass">pasword</string>
+    <string name="btnin">SING IN</string>
+    <string name="btnup">SING UP </string>
+    <string name="inputuser">example@gmail.com</string>
+    <string name="fac">face</string>
+    <string name="tw">tw</string>
+    <string name="gog">go</string>
+    <string name="in">ins</string>
+    //Registro login//
+    <string name="txtfn">Firstname</string>
+    <string name="txtln">Lastname</string>
+    <string name="txtcp">Confirm password</string>
+
+    <string name="inputfn">Peter</string>
+    <string name="inputln">MacDonald</string>
+    <string name="inputun">peter@gmail.com</string>
+    <string name="inputpassreg">pasword</string>
+    <string name="inputpassredconf">pasword</string>
+    <string name="btnini">Regist</string>
+    //lista
+    <string name="txtbirth">Birth</string>
+    <string name="txtcountry">Country</string>
+    <string name="txtphone">Phone</string>
+    <string name="txtgender">Gender</string>
+</resources>

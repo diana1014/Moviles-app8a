@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Como esta el clima?</string>
+    <string name="txtSearch">EX. Cali,CO</string>
+    <string name="btnSearch">Buscar el tiempo</string>
+    <string name="temp">Clima actual</string>
+    <string name="btnGo">Ir a mapas</string>
+    <string name="temp_min">Tiempo minimo</string>
+    <string name="temp_max">Tiempo maximo</string>
+    <string name="description">El clima</string>
+
+    <string name="txtCu">Actual</string>
+    <string name="lblmi">Min</string>
+    <string name="lblma">Max</string>
+    <string name="weathertt">Clima</string>
+    <string name="icon">Todo</string>
+
+</resources>

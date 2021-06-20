@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/skin"
+        android:title="@string/lbl_itm_skin" >
+
+
+        <menu >
+            <item
+                android:id="@+id/ic_red"
+                android:title="@string/imc_red" />
+            <item
+                android:id="@+id/ic_blue"
+                android:title="@string/imc_blue" />
+            <item
+                android:id="@+id/ic_green"
+                android:title="@string/imc_green" />
+            <item
+                android:id="@+id/ic_yellow"
+                android:title="@string/imc_yellow" />
+            <item
+                android:id="@+id/ic_agree"
+                android:title="@string/imc_agrecolor" />
+        </menu>
+    </item>
+
+
+    <item
+        android:id="@+id/aboutof"
+        android:title="@string/lbl_itm_aboutof" />
+    <item
+        android:id="@+id/exit"
+        android:icon="@drawable/ic_exit"
+        android:title="@string/lbl_itm_exit"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/help"
+        android:icon="@drawable/ic_help"
+        android:title="@string/lbl_itm_help"
+        app:showAsAction="always" />
+
+
+</menu>
